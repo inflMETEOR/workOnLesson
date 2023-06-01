@@ -1,0 +1,33 @@
+.footer{
+   position: absolute;
+   right: 0;
+   margin-top: 10px;
+    
+
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 100vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text{
+    width: 50vw;
+    font-size: 10px;
+}
+.footerLogo{
+    width: 176px;
+    height: 56px;
+    margin-right: 50px;
+}
+.footerImage{
+    width: 85px;
+    height: 95px;
+}
+.img{
+    display: flex;
+    align-items: center;
+    
+}
